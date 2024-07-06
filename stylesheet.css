@@ -1,0 +1,58 @@
+:root{
+    color: pink;
+}
+
+@media screen and (max-width: 1100px){
+    body{
+        background-color: green;
+    }
+}
+div {
+    background-color:lightblue;
+    padding: 0px;
+}
+img {
+    width: 300px;
+    height: 300px;
+}
+
+/* body{
+    background-color: aqua;
+} */
+
+body{ 
+    overflow-x: hidden;
+}
+section{
+    font-family: 'Courier New', Courier, monospace;
+} 
+
+#menu{
+    font-family:'Times New Roman', Times, serif;
+    background-color: brown;
+    font-size: 20px;
+    
+}
+.section_title{
+  font-size: 30px;
+}
+
+.data {
+    color: black;
+    
+}
+
+button {
+    border-width: 10px;
+    font-size: 30px;
+    border-color: black;
+    padding: 0px;
+}
+
+table ,th, td{
+    border: 3px solid;
+    border-collapse: collapse;
+    width: 400px;
+    align-content:center;
+
+}
