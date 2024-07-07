@@ -14,3 +14,9 @@ function getValue(){
 
 
 }
+
+const project1 = {
+    title:"project 1",
+    description: "Lorem, ipsum dolar "
+    
+}
